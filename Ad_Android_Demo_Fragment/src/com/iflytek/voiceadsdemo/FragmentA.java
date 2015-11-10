@@ -39,7 +39,7 @@ public class FragmentA extends Fragment {
 	private void initFragment() {
 		mTextView = ((TextView) mRootView.findViewById(R.id.txtView_tip));
 
-		createMultiBannerAdsInMultiLayouts(3);
+		createMultiBannerAdsInMultiLayouts(2);
 		// createBannerAd();// iflytekAd
 		// createBannerAd();// iflytekAd
 		// createTwoBannerAdInOneLayoutS();
